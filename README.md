@@ -1,5 +1,5 @@
 
-# Josh Albert — Software Engineer · Agentic Systems · Graph Engineering
+# Software engineer with 25 years of technical debt, most of it emotional. I make weird tools and annoy robots for sport.
 
 I’m a senior full-stack software engineer with 25+ years of experience building software, currently focused on the intersection of **AI agents, graph systems, evaluation, provenance, and automation**.
 
