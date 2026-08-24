@@ -51,7 +51,10 @@ An experimental virtual Chief Marketing Officer (CMO) system for turning busines
 
 **Automated Job Application System.**
 
-A graph-driven system for matching candidates and companies, evaluating fit, tailoring application materials, and automating the repetitive parts of the job-search process without pretending every opportunity deserves equal effort.
+A graph-driven system for matching candidates and companies, evaluating fit, tailoring application materials, and automating the repetitive parts of the job-search process without pretending every opportunity deserves equal effort. Currently in a  research phase. 
+
+I would love to hear your  complaints about the current state of job search and placement, from both the applicant and recruitment perspective:
+https://socratesone.com/jobs
 
 ## Graph engineering
 
