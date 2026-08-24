@@ -7,6 +7,10 @@ My main interest is not wrapping an API around a chatbot. I build systems where 
 
 ## What I’m working on
 
+### What I do for fun:
+Vim Commander -  https://vim-commander.com/ - a pseudo-vector retro-arcade shooter that aims to  teach vim commands.
+Survival Soup - https://socratesone.com/survival-soup/ - an experiment in genetic algorithms, create an environment, design organisms (called "souplings"), and watch them evolve.
+
 ### EvidEngine
 
 **Provenance infrastructure for AI-assisted research and engineering.**
